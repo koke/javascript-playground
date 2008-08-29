@@ -1,0 +1,16 @@
+#test {
+  margin: 20px;
+  z-index: 10;
+}
+.border_button {
+  border-image: url(blueButton.png) 0 14 0 14;
+  -webkit-border-image: url(blueButton.png) 0 14 0 14;
+	color: #ff0;
+	font: bold 20px/46px Helvetica;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: #000 0 1px 0;
+  border-width: 0px 14px 0px 14px;
+	display: block;
+	margin: 3px 0;
+}
